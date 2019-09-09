@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>kr40.jpg</filename>
+	<path>C:\Users\King Umar\Videos\tf\license\models\object_detection\data\images\train\kr40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>239</ymin>
+			<xmax>449</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>license plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>286</ymin>
+			<xmax>113</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
