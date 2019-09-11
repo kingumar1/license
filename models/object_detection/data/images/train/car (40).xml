@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>kr37.jpg</filename>
-	<path>C:\Users\King Umar\Videos\tf\license\models\object_detection\data\images\train\kr37.jpg</path>
+	<filename>car (40).jpeg</filename>
+	<path>C:\Users\sulai\Videos\license\models\object_detection\data\images\train\car (40).jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1000</width>
-		<height>750</height>
+		<width>713</width>
+		<height>382</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>408</xmin>
-			<ymin>589</ymin>
-			<xmax>624</xmax>
-			<ymax>671</ymax>
+			<xmin>282</xmin>
+			<ymin>188</ymin>
+			<xmax>416</xmax>
+			<ymax>253</ymax>
 		</bndbox>
 	</object>
 </annotation>

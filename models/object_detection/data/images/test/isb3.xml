@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>isb3.jpg</filename>
-	<path>C:\Users\King Umar\Videos\tf\license\models\object_detection\data\images\test\isb3.jpg</path>
+	<path>C:\Users\sulai\Videos\license\models\object_detection\data\images\test\isb3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>444</xmin>
-			<ymin>343</ymin>
-			<xmax>593</xmax>
-			<ymax>417</ymax>
+			<xmin>443</xmin>
+			<ymin>339</ymin>
+			<xmax>599</xmax>
+			<ymax>421</ymax>
 		</bndbox>
 	</object>
 </annotation>

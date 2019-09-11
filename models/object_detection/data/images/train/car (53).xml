@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>car (53).jpeg</filename>
+	<path>C:\Users\sulai\Videos\license\models\object_detection\data\images\train\car (53).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>685</ymin>
+			<xmax>543</xmax>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+</annotation>

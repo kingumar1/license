@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>la3.jpg</filename>
-	<path>C:\Users\King Umar\Videos\tf\license\models\object_detection\data\images\test\la3.jpg</path>
+	<path>C:\Users\sulai\Videos\license\models\object_detection\data\images\test\la3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>323</xmin>
-			<ymin>536</ymin>
-			<xmax>498</xmax>
-			<ymax>599</ymax>
+			<xmin>318</xmin>
+			<ymin>534</ymin>
+			<xmax>495</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>

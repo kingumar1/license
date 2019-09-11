@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>isb4.jpg</filename>
-	<path>C:\Users\King Umar\Videos\tf\license\models\object_detection\data\images\train\isb4.jpg</path>
+	<path>C:\Users\sulai\Videos\license\models\object_detection\data\images\train\isb4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>457</xmin>
-			<ymin>518</ymin>
-			<xmax>581</xmax>
-			<ymax>568</ymax>
+			<xmin>455</xmin>
+			<ymin>517</ymin>
+			<xmax>586</xmax>
+			<ymax>578</ymax>
 		</bndbox>
 	</object>
 </annotation>

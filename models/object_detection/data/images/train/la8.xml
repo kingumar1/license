@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>la8.jpg</filename>
-	<path>C:\Users\King Umar\Videos\tf\license\models\object_detection\data\images\train\la8.jpg</path>
+	<path>C:\Users\sulai\Videos\license\models\object_detection\data\images\train\la8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>427</xmin>
-			<ymin>408</ymin>
-			<xmax>517</xmax>
-			<ymax>450</ymax>
+			<ymin>404</ymin>
+			<xmax>520</xmax>
+			<ymax>456</ymax>
 		</bndbox>
 	</object>
 </annotation>

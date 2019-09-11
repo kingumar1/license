@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>kr30.jpg</filename>
-	<path>C:\Users\King Umar\Videos\tf\license\models\object_detection\data\images\train\kr30.jpg</path>
+	<path>C:\Users\sulai\Videos\license\models\object_detection\data\images\train\kr30.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>191</xmin>
-			<ymin>477</ymin>
-			<xmax>291</xmax>
-			<ymax>513</ymax>
+			<xmin>187</xmin>
+			<ymin>472</ymin>
+			<xmax>295</xmax>
+			<ymax>520</ymax>
 		</bndbox>
 	</object>
 </annotation>
